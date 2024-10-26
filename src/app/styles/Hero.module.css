@@ -1,0 +1,20 @@
+.hero {
+    
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: yellow;
+    text-align: center;
+    background-color:red
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+
+  }
+  
+  
